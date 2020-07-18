@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/messenger-clone/static/css/main.7df2eb3b.chunk.css",
-    "main.js": "/messenger-clone/static/js/main.576e7a08.chunk.js",
-    "main.js.map": "/messenger-clone/static/js/main.576e7a08.chunk.js.map",
-    "runtime-main.js": "/messenger-clone/static/js/runtime-main.aa7ddd0c.js",
-    "runtime-main.js.map": "/messenger-clone/static/js/runtime-main.aa7ddd0c.js.map",
-    "static/js/2.52b24a28.chunk.js": "/messenger-clone/static/js/2.52b24a28.chunk.js",
-    "static/js/2.52b24a28.chunk.js.map": "/messenger-clone/static/js/2.52b24a28.chunk.js.map",
-    "index.html": "/messenger-clone/index.html",
-    "precache-manifest.7556637a1f61f54b46aa00237e92799a.js": "/messenger-clone/precache-manifest.7556637a1f61f54b46aa00237e92799a.js",
-    "service-worker.js": "/messenger-clone/service-worker.js",
-    "static/css/main.7df2eb3b.chunk.css.map": "/messenger-clone/static/css/main.7df2eb3b.chunk.css.map",
-    "static/js/2.52b24a28.chunk.js.LICENSE.txt": "/messenger-clone/static/js/2.52b24a28.chunk.js.LICENSE.txt"
+    "main.css": "/fb-messenger-clone/static/css/main.7df2eb3b.chunk.css",
+    "main.js": "/fb-messenger-clone/static/js/main.8596a9d2.chunk.js",
+    "main.js.map": "/fb-messenger-clone/static/js/main.8596a9d2.chunk.js.map",
+    "runtime-main.js": "/fb-messenger-clone/static/js/runtime-main.9b0348a5.js",
+    "runtime-main.js.map": "/fb-messenger-clone/static/js/runtime-main.9b0348a5.js.map",
+    "static/js/2.498748d6.chunk.js": "/fb-messenger-clone/static/js/2.498748d6.chunk.js",
+    "static/js/2.498748d6.chunk.js.map": "/fb-messenger-clone/static/js/2.498748d6.chunk.js.map",
+    "index.html": "/fb-messenger-clone/index.html",
+    "precache-manifest.de75fc05646e75aca1dedb95f650b1d4.js": "/fb-messenger-clone/precache-manifest.de75fc05646e75aca1dedb95f650b1d4.js",
+    "service-worker.js": "/fb-messenger-clone/service-worker.js",
+    "static/css/main.7df2eb3b.chunk.css.map": "/fb-messenger-clone/static/css/main.7df2eb3b.chunk.css.map",
+    "static/js/2.498748d6.chunk.js.LICENSE.txt": "/fb-messenger-clone/static/js/2.498748d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa7ddd0c.js",
-    "static/js/2.52b24a28.chunk.js",
+    "static/js/runtime-main.9b0348a5.js",
+    "static/js/2.498748d6.chunk.js",
     "static/css/main.7df2eb3b.chunk.css",
-    "static/js/main.576e7a08.chunk.js"
+    "static/js/main.8596a9d2.chunk.js"
   ]
 }
